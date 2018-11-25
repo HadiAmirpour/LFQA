@@ -5,7 +5,7 @@ This code is used to measure full-reference objective quality metrics between su
 
 
 # inputs
-.Directory of uncompressed and compressed sub-aperture images.
+  - Directory of uncompressed and compressed sub-aperture images.
 
 
 # outputs
@@ -13,7 +13,7 @@ This code is used to measure full-reference objective quality metrics between su
   - SSIM
   - MS-SSIM
 
-```
-The code will regularly will be updated to contain more objective metrics.
-```
+
+>The code will regularly will be updated to contain more objective metrics.
+
 
