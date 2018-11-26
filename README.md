@@ -11,7 +11,13 @@ This code is used to measure full-reference objective quality metrics between su
 # outputs
   - PSNR
   - SSIM
-  - MS-SSIM
+  - MS-SSIM [[paper](https://ece.uwaterloo.ca/~z70wang/publications/msssim.pdf)] [[code](https://ece.uwaterloo.ca/~z70wang/research/iwssim/msssim.zip)]
+  - FSIM & FSIMc [[paper](http://www4.comp.polyu.edu.hk/~cslzhang/IQA/TIP_IQA_FSIM.pdf)][[code](http://www4.comp.polyu.edu.hk/~cslzhang/IQA/FSIM/Files/FeatureSIM.m)]
+  - IWSSIM & IWPSNR [[paper](http://www.ece.uwaterloo.ca/~z70wang/publications/IWSSIM.pdf)][[code](https://ece.uwaterloo.ca/~z70wang/research/iwssim/iwssim_iwpsnr.zip)]
+  - IFC [[paper]()][[code](http://live.ece.utexas.edu/research/Quality/ifcvec_release.zip)]
+  - VIF [[paper]()][[code](http://live.ece.utexas.edu/research/Quality/vifvec_release.zip)]
+  - VFIP [[paper]()][[code](http://live.ece.utexas.edu/research/Quality/vifp_release.zip)]
+  
 
 
 # Example
