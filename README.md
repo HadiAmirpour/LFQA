@@ -14,6 +14,6 @@ This code is used to measure full-reference objective quality metrics between su
   - MS-SSIM
 
 
->The code will regularly will be updated to contain more objective metrics.
+>The code regularly will be updated to contain more objective metrics.
 
 
