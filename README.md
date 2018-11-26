@@ -18,7 +18,7 @@ This code is used to measure full-reference objective quality metrics between su
   - VIF [[paper](https://live.ece.utexas.edu/publications/2004/hrs_ieeetip_2004_imginfo.pdf)][[code](http://live.ece.utexas.edu/research/Quality/vifvec_release.zip)]
   - VIFP [[paper](https://live.ece.utexas.edu/publications/2004/hrs_ieeetip_2004_imginfo.pdf)][[code](http://live.ece.utexas.edu/research/Quality/vifp_release.zip)]
   - JQS [[paper](https://live.ece.utexas.edu/publications/2002/zw_icip_2002_norefjpeg.pdf)][[code](https://ece.uwaterloo.ca/~z70wang/research/nr_jpeg_quality/jpeg_quality_score.m)]
-  - UIQ [[paper](https://ece.uwaterloo.ca/~z70wang/publications/quality_2c.pdf)][[code](http://live.ece.utexas.edu/research/Quality/zhou_research_anch/quality_index/img_qi.m)]
+  - UIQ  [[paper](https://ece.uwaterloo.ca/~z70wang/publications/quality_2c.pdf)][[code](http://live.ece.utexas.edu/research/Quality/zhou_research_anch/quality_index/img_qi.m)]
 
 
 # Example
