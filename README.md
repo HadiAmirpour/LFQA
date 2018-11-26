@@ -15,9 +15,9 @@ This code is used to measure full-reference objective quality metrics between su
   - FSIM & FSIMc [[paper](http://www4.comp.polyu.edu.hk/~cslzhang/IQA/TIP_IQA_FSIM.pdf)][[code](http://www4.comp.polyu.edu.hk/~cslzhang/IQA/FSIM/Files/FeatureSIM.m)]
   - IWSSIM & IWPSNR [[paper](http://www.ece.uwaterloo.ca/~z70wang/publications/IWSSIM.pdf)][[code](https://ece.uwaterloo.ca/~z70wang/research/iwssim/iwssim_iwpsnr.zip)]
   - IFC [[paper](https://live.ece.utexas.edu/publications/2004/hrs_ieeetip_2004_infofidel.pdf)][[code](http://live.ece.utexas.edu/research/Quality/ifcvec_release.zip)]
-  - VIF [[paper](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=2ahUKEwiwosuazPLeAhUrKMAKHSYvAIwQFjACegQIBRAC&url=https%3A%2F%2Flive.ece.utexas.edu%2Fpublications%2F2004%2Fhrs_ieeetip_2004_imginfo.pdf&usg=AOvVaw1oaew46MTrJf3d29KZzeig)][[code](http://live.ece.utexas.edu/research/Quality/vifvec_release.zip)]
-  - VIFP [[paper](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=2ahUKEwiwosuazPLeAhUrKMAKHSYvAIwQFjACegQIBRAC&url=https%3A%2F%2Flive.ece.utexas.edu%2Fpublications%2F2004%2Fhrs_ieeetip_2004_imginfo.pdf&usg=AOvVaw1oaew46MTrJf3d29KZzeig)][[code](http://live.ece.utexas.edu/research/Quality/vifp_release.zip)]
-  - JQS [[paper](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwjXjrTrzPLeAhVKLcAKHZF2AN0QFjAAegQICBAC&url=https%3A%2F%2Flive.ece.utexas.edu%2Fpublications%2F2002%2Fzw_icip_2002_norefjpeg.pdf&usg=AOvVaw2e0NdqCbod7zNae18BAf4g)][[code](https://ece.uwaterloo.ca/~z70wang/research/nr_jpeg_quality/jpeg_quality_score.m)]
+  - VIF [[paper](https://live.ece.utexas.edu/publications/2004/hrs_ieeetip_2004_imginfo.pdf)][[code](http://live.ece.utexas.edu/research/Quality/vifvec_release.zip)]
+  - VIFP [[paper](https://live.ece.utexas.edu/publications/2004/hrs_ieeetip_2004_imginfo.pdf)][[code](http://live.ece.utexas.edu/research/Quality/vifp_release.zip)]
+  - JQS [[paper](https://live.ece.utexas.edu/publications/2002/zw_icip_2002_norefjpeg.pdf)][[code](https://ece.uwaterloo.ca/~z70wang/research/nr_jpeg_quality/jpeg_quality_score.m)]
   - UIQ [[paper](https://ece.uwaterloo.ca/~z70wang/publications/quality_2c.pdf)][[code](http://live.ece.utexas.edu/research/Quality/zhou_research_anch/quality_index/img_qi.m)]
 
 
