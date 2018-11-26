@@ -22,6 +22,10 @@ This code is used to measure full-reference objective quality metrics between su
  - FSIM & FSIMc [[paper](http://www4.comp.polyu.edu.hk/~cslzhang/IQA/TIP_IQA_FSIM.pdf)][[code](http://www4.comp.polyu.edu.hk/~cslzhang/IQA/FSIM/Files/FeatureSIM.m)]
  - IWSSIM & IWPSNR [[paper](http://www.ece.uwaterloo.ca/~z70wang/publications/IWSSIM.pdf)][[code](https://ece.uwaterloo.ca/~z70wang/research/iwssim/iwssim_iwpsnr.zip)]
 
+# prerequisite
+- [matlabPyrTools](https://github.com/LabForComputationalVision/matlabPyrTools=>)
+   - Some metrics need this tools. However, if you do not need these metrics you can comment them in LFQA function and skip installing matlabPyrTools.
+
 
 # Example
 please download [I01_ref and I01_rec](https://ubipt-my.sharepoint.com/:f:/g/personal/hadi_amirpourazarian_ubi_pt/EqR1EFndF89PjjCFwramrkIBMgxs7Zig21W3zO27S3aoIA?e=WtRpur) folders and put them in the same directory of LFQA function and run Demo file.
