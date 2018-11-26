@@ -23,7 +23,7 @@ This code is used to measure full-reference objective quality metrics between su
  - IWSSIM & IWPSNR [[paper](http://www.ece.uwaterloo.ca/~z70wang/publications/IWSSIM.pdf)][[code](https://ece.uwaterloo.ca/~z70wang/research/iwssim/iwssim_iwpsnr.zip)]
 
 # prerequisite
-- [matlabPyrTools](https://github.com/LabForComputationalVision/matlabPyrTools=>)
+- [matlabPyrTools](https://github.com/LabForComputationalVision/matlabPyrTools)
    - Some metrics need this tools. However, if you do not need these metrics you can comment them in LFQA function and skip installing matlabPyrTools.
 
 
