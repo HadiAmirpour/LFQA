@@ -3,6 +3,13 @@ Light field quality assessment code
 
 This code is used to measure full-reference objective quality metrics between sub-aperture images. 
 
+# Citation
+Please cite following paper if you use information from this repository.
+
+```
+H. Amirpour, A. M. G. Pinheiro, M. Pereira and M. Ghanbari, "Reliability of the Most Common Objective Metrics for Light Field Quality Assessment," ICASSP 2019 - 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Brighton, United Kingdom, 2019, pp. 2402-2406.
+```
+
 
 # inputs
   - Directory of uncompressed and compressed sub-aperture images.
